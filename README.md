@@ -1,3 +1,3 @@
 ## Lahool Token
 
-An example solidity code for initial token in Binance Smart Chain.
+An example solidity code for initial token on Binance Smart Chain.
